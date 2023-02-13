@@ -1,0 +1,27 @@
+body{
+    background-image: url(img/photo-1536514498073-50e69d39c6cf.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer{
+    margin-top: 300px;
+    margin-left: 690px;
+}
+
+.button{
+    background-color: transparent;
+    border: 2px solid #7f5539;
+    width: 200px;
+    height: 45px;
+    font-size: 16px;
+    border-radius: 10px;
+    color: #7f5539;
+}
+
+.button:hover{
+    color: black;
+    background-color: #e9ecef;
+    border: 2px solid transparent;
+    transition: 1s;
+}
